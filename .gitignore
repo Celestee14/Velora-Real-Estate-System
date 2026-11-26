@@ -39,3 +39,6 @@ uploads/
 
 # Private user rating data
 /server/data/ratings.json
+
+# Unused nested frontend folder
+/src/src/
