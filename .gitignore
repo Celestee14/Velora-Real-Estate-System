@@ -36,3 +36,6 @@ uploads/
 
 # Separate NestJS project
 /server-nestjs/
+
+# Private user rating data
+/server/data/ratings.json
